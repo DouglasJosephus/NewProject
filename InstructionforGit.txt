@@ -1,0 +1,36 @@
+https://github.com/DouglasJosephus/Project.git
+
+//go to your folder address using git command
+//link your reposotory to your folder 
+
+
+
+configure first you account using gitbash type;
+
+git config --global user.name "your name"
+git config --global user.email (emailaddress)
+
+now... 
+
+type the steps;
+1. Click your web link address repository 
+2. go to gitbach then type "git clone (link address)
+
+
+link your file to github by using  gitbash
+
+//add file
+
+git add (filename)
+
+// check status to check what you added
+
+git status
+
+// commit your file to git
+
+git commit -m "comment word" filename
+
+//transfer file to github
+
+git push -u orgin master
